@@ -1,0 +1,88 @@
+.container{
+    color: #fff;
+    display: flex;
+    flex-direction:row;
+    border: 5px solid #0D73C3;
+    text-align: center;
+    background-image: url("pexels-andreea-ch-1166644.jpg");
+}
+.footer{
+    background-color: #42C914;
+    text-align: center;
+    color: #ffffff;
+
+}
+a{
+    text-decoration: none;
+}
+.footer h5{
+    font-size: 20px;
+    color: #000;
+
+}
+H3{
+    text-align: center;
+    text-transform: capitalize;
+}
+button{
+    text-transform:uppercase;
+    border: #24dc0b solid 2px;
+    width: 100px;
+    background-color: #24dc0b;
+    
+}
+.name{
+    color: #000;
+    width: 60%;
+}
+.name h3{
+    font-size:30px;
+    font-weight: bold;
+}
+a span{
+    text-transform: uppercase;
+    text-shadow: 2px 1px #ff0000;
+    color: #A514C9;
+}
+.photo{
+    width: 25%;
+}
+img{
+    width: 100%;
+    height:500px;
+    border-radius: 30%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.aboutName{
+    text-transform : uppercase;
+    text-decoration-thickness : 10%;
+    font-family :serif;
+    
+}
+.containerONE{
+    background-image: url("pexels-henry-&-co-2341290.jpg");
+    border:10px solid #FFC300;
+    width: 100%;
+    margin:10px;
+
+}
+.about{
+    color: #92C914;
+    text-align: center;
+}
+.containerONE .specialCharacters{
+    color: #900C3F;
+}
+.content{
+    color: #000;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: impact;
+}
+.content span{
+    color:#92C914;
+}
+.button{
+    text-align: center;
+}
